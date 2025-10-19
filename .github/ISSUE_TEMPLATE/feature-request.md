@@ -1,0 +1,18 @@
+---  
+name: Propozycja funkcji 
+about: Zaproponuj nową funkcjonalność lub usprawnienie 
+title: "[FEATURE] Krótki opis"
+labels: enhancement
+assignees:''
+---
+
+**Opis funckji**
+Opisz jaka funkcja powinna zostać dodana i dlaczego
+
+**Przykład użycia**
+Jak użytkownik skorzysta z tej funkcji
+
+**Dodatkowe informacje**
+Wszystkie dodatkowe pomysły 
+
+
