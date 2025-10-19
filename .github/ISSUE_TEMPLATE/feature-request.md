@@ -3,7 +3,7 @@ name: Propozycja funkcji
 about: Zaproponuj nową funkcjonalność lub usprawnienie 
 title: "[FEATURE] Krótki opis"
 labels: enhancement
-assignees:''
+assignees: ''
 ---
 
 **Opis funckji**
